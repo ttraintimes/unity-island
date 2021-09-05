@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.33276618, g: 0.3644351, b: 0.5169351, a: 1}
+  m_IndirectSpecularColor: {r: 0.3323733, g: 0.36407304, b: 0.51668084, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &4
 LightmapSettings:
@@ -9113,7 +9113,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!20 &342235297
 Camera:
   m_ObjectHideFlags: 0
@@ -9713,7 +9713,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!82 &392057414
 AudioSource:
   m_ObjectHideFlags: 0
@@ -10396,7 +10396,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!45 &442419802
 Skybox:
   m_ObjectHideFlags: 0
@@ -12508,7 +12508,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!45 &527376318
 Skybox:
   m_ObjectHideFlags: 0
@@ -13412,7 +13412,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!45 &575860115
 Skybox:
   m_ObjectHideFlags: 0
@@ -14281,7 +14281,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!45 &619090869
 Skybox:
   m_ObjectHideFlags: 0
@@ -16347,7 +16347,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!45 &748973893
 Skybox:
   m_ObjectHideFlags: 0
@@ -20090,7 +20090,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!45 &1001035523
 Skybox:
   m_ObjectHideFlags: 0
@@ -29381,7 +29381,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!45 &1461370840
 Skybox:
   m_ObjectHideFlags: 0
